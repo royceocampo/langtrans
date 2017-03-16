@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+html {
+	background-color: #FFFFF0;
+}
+
+.panel {
+	width: 48%;
+	float: left;
+	display: inline;
+}
+
+.header, .panel, .tr-selector, .tr-action {
+	margin: .5em;
+}
+
+.tr-input {
+	width: 100%;
+}
+
